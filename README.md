@@ -5,7 +5,7 @@
   <img src=""/>
 </p>
 <p align="center">
-Owner Of Gen🌇 • Accountboost
+Owner of Gen • Accountboost
 <p align="center">
     <a href="https://discord.gg/accountboost">Discord Server</a>
     <p align="center">
