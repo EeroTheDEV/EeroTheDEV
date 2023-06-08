@@ -9,5 +9,5 @@ Owner of Gen • Accountboost
 <p align="center">
     <a href="https://discord.gg/accountboost">Discord Server</a>
     <p align="center">
-    <a href="1vx.nl">Personal Site</a>
+    <a href="SITECOMMING SOON!">Personal Site</a>
     
